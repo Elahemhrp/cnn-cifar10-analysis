@@ -1,4 +1,4 @@
-# Exercise 3 — CNN Analysis on CIFAR-10 (From Scratch)
+# CNN Analysis on CIFAR-10 (From Scratch)
 
 This repository contains the solution for **AI Exercise 3**: training a custom Convolutional Neural Network (CNN) on **CIFAR-10** and analyzing internal feature representations (feature maps) across layers.
 
